@@ -8,6 +8,8 @@ Personally I have issues with blink.compat and Supermaven, so I made this plugin
 
 Add the plugin to your package manager, with [supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim), and enable it in the plugins in blink.
 
+Using [lazy.nvim](https://github.com/folke/lazy.nvim)
+
 ```
 return {
   'saghen/blink.cmp',
