@@ -10,7 +10,7 @@ Add the plugin to your package manager, with [supermaven-nvim](https://github.co
 
 Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-```
+```lua
 return {
   'saghen/blink.cmp',
   dependencies = {
