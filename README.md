@@ -1,6 +1,6 @@
 # blink-cmp-supermaven
 
-Blink Cmp Supermaven is a compatibility plugin to make Supermaven compatible with Blink.
+Blink Cmp Supermaven is a compatibility plugin to make Supermaven compatible with [blink.cmp](https://github.com/saghen/blink.cmp).
 
 Personally I have issues with blink.compat and Supermaven, so I made this plugin based on the internal implementation that Supermaven has of cmp.
 
