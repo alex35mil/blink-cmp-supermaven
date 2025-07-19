@@ -113,7 +113,7 @@ function source:get_completions(context, callback)
       kind = kind,
       score_offset = 100,
       insertTextFormat = instertTextFormat,
-      kind_icon = "󰧑",
+      kind_icon = "󰚩",
       textEdit = {
         newText = completion_text,
         insert = range,
